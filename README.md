@@ -34,3 +34,4 @@ docker_ps() {
 ```
 
 ### After all made work you can use your script just by using ```docker_ps``` in your command line which is more convinient for using then classic output 🎉🎉
+![example](https://github.com/user-attachments/assets/27dfe44e-1fd1-42a4-b36a-b1984b8132a2)
